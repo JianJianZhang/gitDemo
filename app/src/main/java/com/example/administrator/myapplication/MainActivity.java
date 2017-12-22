@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         tvName = findViewById(R.id.tv_name);
         tvName.setText("测试2");
+
+
     }
 }
